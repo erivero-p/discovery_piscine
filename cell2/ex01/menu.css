@@ -1,0 +1,20 @@
+body {
+	margin: 0%;
+	background-color: rgb(211, 185, 185);
+}
+
+div.centered-content {
+	position: relative;
+	text-align: center;
+	top: 50%;
+}
+div.band {
+	background-color: #e5a26e;
+	height: 100px;
+	width: 100%;
+}
+select {
+	background-color: #e5a26e;
+	border-radius: 10%;
+	border-style: dotted;
+}
